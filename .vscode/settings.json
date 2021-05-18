@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.CustomBrowser": "firefox",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
